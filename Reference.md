@@ -27,12 +27,17 @@ ______
 
 
 ### Mobile Sensors And Wearable Watches
-
+- [Physical human Activity Recognition using wearable data](https://www.mdpi.com/1424-8220/15/12/29858)     
+- [Technology-wrnch](https://wrnch.ai/technology/?gclid=Cj0KCQjwiYL3BRDVARIsAF9E4Gef9IuJzb8QltbrxzPfjMHdatTjevD3LnMVFDQm1l7Q9brysA4NH4EaAvoAEALw_wcB)   
+- [ieee-article for HAR using wearables](https://ieeexplore.ieee.org/document/8679226)     
+- [Human Activity Recognition Based on Wearable
+Sensor Data: A Standardization of the
+State-of-the-Art](https://arxiv.org/pdf/1806.05226.pdf)
 
 
 ### HAR APIs and Datasets Articles
-
-
+- [MI Official site](https://dev.mi.com/docs/micloud/health/)
+- [fitbit Official API site](https://dev.fitbit.com/build/reference/device-api/)
 
 
 ### Human Activity Recognitions 
