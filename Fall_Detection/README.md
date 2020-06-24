@@ -1,1 +1,1 @@
-this is the android app for basic fall detection
+this is the android implementation for basic fall detection
